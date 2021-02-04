@@ -21,3 +21,16 @@ body{
   width: 100%;
   mix-blend-mode: multiply;
 }
+
+.blog-order{
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+  justify-content: left;
+  align-items: center;
+}
+
+.blog{
+  width: 30%;
+  padding: 1.5%;
+}
